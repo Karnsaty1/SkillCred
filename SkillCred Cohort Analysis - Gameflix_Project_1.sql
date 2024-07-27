@@ -1,5 +1,6 @@
 -- Project Name :- Analyzing Customer Retention and Lifetime Value Through Cohort Analysis
--- Priyanshu Dubey
+-- Satyam Karn
+-- 2215001606 : Roll No
 /* 
  The goal of this project is to perform cohort analysis to understand and
   improve customer retention on Gameflix using SQL. Here's how we can approach it:
